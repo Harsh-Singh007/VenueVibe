@@ -3,7 +3,7 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','');
-define('DB_NAME','obbs');
+define('DB_NAME','venuevibe_DB');
 // Establish database connection.
 try
 {
