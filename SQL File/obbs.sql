@@ -160,8 +160,8 @@ CREATE TABLE `tblpage` (
 --
 
 INSERT INTO `tblpage` (`ID`, `PageType`, `PageTitle`, `PageDescription`, `Email`, `MobileNumber`, `UpdationDate`) VALUES
-(1, 'aboutus', 'About Us', '<b>Online Banquet Booking System</b><div><b>OBBS is one of the Internet\'s largest and trusted Online Banquet Booking Service. OBBShas done several placements locally &amp; globally for top artists.</b></div><div><b><br></b></div><div><b>&nbsp;Test data for testing.&nbsp;</b></div>', NULL, NULL, '2022-02-19 17:54:36'),
-(2, 'contactus', 'Contact Us', 'D-204, Hole Town South West,Delhi-110096,India', 'info@gmail.com', 1234567899, '2022-02-19 17:54:52');
+(1, 'aboutus', 'About Us', '<b>VenueVibe</b><div>'<b>Welcome to VenueVibe – your go-to online platform for effortless banquet bookings. We simplify the process, offering a diverse range of venues for weddings, corporate events, and special celebrations. With transparency in pricing, amenities, and customer reviews, we empower you to make informed decisions. Our commitment to customer satisfaction and innovation sets us apart in creating memorable events. Explore VenueVibe today and experience stress-free venue selection for your next celebration!</b></div>', NULL, NULL, '2022-02-19 17:54:36'),
+(2, 'contactus', 'Contact Us', 'Washington kukshi (454331),Jobat,Madhya Pradesh India.', 'info@gmail.com', 1234567899, '2022-02-19 17:54:52');
 
 -- --------------------------------------------------------
 
